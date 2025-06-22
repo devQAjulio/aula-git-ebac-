@@ -3,7 +3,7 @@ Dados do aluno
 -Primeiro Nome: Júlio
 -Profissão: Futuro Analista QA
 -Cidade: São José Dos Campos
--O que faz nas horas vaga: Trabalho, Estudo Luto
+-O que faz nas horas vaga: Trabalho, Estudo, Luto
 -Feedback sobre o curso Qualidade de Software: Está sendo excelente
 -Feedback sobre a plataforma de estudo da EBAC: ótima, suporte exelente
 
